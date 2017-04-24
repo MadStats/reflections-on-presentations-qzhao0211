@@ -61,9 +61,75 @@ What were aspects of the presentation that you liked:
 What were aspects of the presentations for which you had concerns or questions:
 
 
+Title of presentation:
+game
+
+What were aspects of the presentation that you liked:
+
+1)nice explaniation of backgroud and data processing
+
+
+What were aspects of the presentations for which you had concerns or questions:
+
+
+how the importance of variables relate to the game strategy?
 
 
 
+Title of presentation:
+traffic death
+
+What were aspects of the presentation that you liked:
+1)illustration of residual analysis
+2)combine data set
+
+
+What were aspects of the presentations for which you had concerns or questions:
+1)Maybe box-cox trasformation can help residual
+
+
+Title of presentation:
+song
+
+What were aspects of the presentation that you liked:
+1)the way of organize data
+2)
+
+
+What were aspects of the presentations for which you had concerns or questions:
+1)more explaination on entropy and connection with sentimental scores.
+
+
+Title of presentation:
+song
+
+What were aspects of the presentation that you liked:
+1)the way of organize data
+
+
+What were aspects of the presentations for which you had concerns or questions:
+1)more explaination on entropy and connection with sentimental scores.
+
+
+Title of presentation:
+NBA
+
+What were aspects of the presentation that you liked:
+1)the way of organize data
+2)very detailed explaination of NBA jargons 
+
+What were aspects of the presentations for which you had concerns or questions:
+1)The explainations of heat map and how it relates to your thesis
+
+Title of presentation:
+terrorism
+
+What were aspects of the presentation that you liked:
+1)meaningful visulization and explaination
+2)detect outliares
+
+
+What were aspects of the presentations for which you had concerns or questions:
 
 
 
